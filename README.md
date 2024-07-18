@@ -49,7 +49,7 @@ Semantic-Segmentation--for-Off-Road-Vehicles-main/
 
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/Rishabh-Namdev/Semantic-Segmentation--for-Off-Road-Vehicles.git
     cd Semantic-Segmentation--for-Off-Road-Vehicles
     ```
 
